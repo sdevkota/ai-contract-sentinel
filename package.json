@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/ai-contract-sentinel.git"
+    "url": "https://github.com/sdevkota/ai-contract-sentinel.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/ai-contract-sentinel/issues"
+    "url": "https://github.com/sdevkota/ai-contract-sentinel/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/ai-contract-sentinel/"
+  "homepage": "https://sdevkota.github.io/ai-contract-sentinel/"
 }
