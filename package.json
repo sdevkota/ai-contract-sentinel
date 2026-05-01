@@ -1,0 +1,30 @@
+{
+  "name": "@open-ai-civic/ai-contract-sentinel",
+  "version": "1.0.0",
+  "description": "Risk triage for AI-generated or AI-reviewed contracts. Contracts increasingly include AI-generated clauses, but parties need transparent checks for hallucinated obligations, missing provenance, and risky automated edits.",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "ai-contract-sentinel": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "open-source",
+    "governance",
+    "safety",
+    "ai-contract-sentinel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/ai-contract-sentinel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/ai-contract-sentinel/issues"
+  },
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/ai-contract-sentinel/"
+}
